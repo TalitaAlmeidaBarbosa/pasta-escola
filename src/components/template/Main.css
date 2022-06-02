@@ -1,0 +1,12 @@
+div.content {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
+
+main > div {
+    background-color: #fff;
+    box-sizing: 0px 0px 15px #0004;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.452);
+    padding: 20px;
+}
